@@ -1,0 +1,20 @@
+<html>
+  <head>
+   <title></title>
+  </head>
+  <body>
+<header>
+  <nav>
+    my portfolio
+  </nav>
+my page
+</header>
+<ul>
+  <li>This is my frist website</li>
+</ul>
+<textarea rows="10" cols="50" name="message"></textarea>
+<button name="submit" type="submit">Submit Me</button>
+<a herf ="https://github.com/gussnar"> github</a>
+<footer><a herf ="https://plus.google.com/u/0/115668163169705591128"> google+</a></footer>
+  </body>
+</html>
