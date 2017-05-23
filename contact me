@@ -1,0 +1,21 @@
+<!doctype html>
+  <head>
+   <title></title>
+  </head>
+  <body>
+<header>
+  <nav>
+     contact me
+  </nav>
+my page
+</header>
+<form method="POST" action="http://formspree.io/gussnar@outlook.com">
+  <input type="email" name="email" placeholder="gussnar@outlook.com">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
+ <footer><a herf ="https://plus.google.com/u/0/115668163169705591128"> google+</a>
+<a herf ="http://worldwidebugs.blogspot.com/">bolg</a>
+<a herf ="https//:githhub.com/gussnar">github</a></footer>
+  </body>
+</html>
