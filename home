@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>sean reynolds home</title>
+   <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+<header>
+  <nav>
+    home
+  </nav>
+</header>
+<header>
+   About Me
+</header>
+<section>
+  <img src="https://c1.staticflickr.com/5/4156/33829803993_a71537dbd9_b.jpg">
+I live in San Antonio and I work at Six Flags
+</section>
+  <header>
+   My Backgrond
+  </header>
+ <section>I live in San Antonio and doing this corses so I can go to SCI
+</section>
+ <header>  
+ Why I Decided to Learn Poramming
+</header>
+  <section>  
+I like poramming robots
+  </section>
+  <footer>
+    <a href="http://worldwidebugs.blogspot.com/">blog</a>
+    <a href="https://github.com/gussnar">github</a>
+    <a href="https://plus.google.com/u/0/115668163169705591128">googel+</a>
+  </footer>
+  
+  </body>
+  
+</html>
